@@ -1,0 +1,14 @@
+C:\Users\julian\workspace\visual_basic\fruteria_descuento\fruteria_descuento\bin\Debug\net8.0\fruteria_descuento.exe
+C:\Users\julian\workspace\visual_basic\fruteria_descuento\fruteria_descuento\bin\Debug\net8.0\fruteria_descuento.deps.json
+C:\Users\julian\workspace\visual_basic\fruteria_descuento\fruteria_descuento\bin\Debug\net8.0\fruteria_descuento.runtimeconfig.json
+C:\Users\julian\workspace\visual_basic\fruteria_descuento\fruteria_descuento\bin\Debug\net8.0\fruteria_descuento.dll
+C:\Users\julian\workspace\visual_basic\fruteria_descuento\fruteria_descuento\bin\Debug\net8.0\fruteria_descuento.pdb
+C:\Users\julian\workspace\visual_basic\fruteria_descuento\fruteria_descuento\obj\Debug\net8.0\fruteria_descuento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julian\workspace\visual_basic\fruteria_descuento\fruteria_descuento\obj\Debug\net8.0\fruteria_descuento.AssemblyInfoInputs.cache
+C:\Users\julian\workspace\visual_basic\fruteria_descuento\fruteria_descuento\obj\Debug\net8.0\fruteria_descuento.AssemblyInfo.vb
+C:\Users\julian\workspace\visual_basic\fruteria_descuento\fruteria_descuento\obj\Debug\net8.0\fruteria_descuento.vbproj.CoreCompileInputs.cache
+C:\Users\julian\workspace\visual_basic\fruteria_descuento\fruteria_descuento\obj\Debug\net8.0\fruteria_descuento.dll
+C:\Users\julian\workspace\visual_basic\fruteria_descuento\fruteria_descuento\obj\Debug\net8.0\refint\fruteria_descuento.dll
+C:\Users\julian\workspace\visual_basic\fruteria_descuento\fruteria_descuento\obj\Debug\net8.0\fruteria_descuento.pdb
+C:\Users\julian\workspace\visual_basic\fruteria_descuento\fruteria_descuento\obj\Debug\net8.0\fruteria_descuento.genruntimeconfig.cache
+C:\Users\julian\workspace\visual_basic\fruteria_descuento\fruteria_descuento\obj\Debug\net8.0\ref\fruteria_descuento.dll

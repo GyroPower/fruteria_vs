@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julian\\workspace\\visual_basic\\fruteria_descuento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88C94C88-B8A9-4D18-AF8E-13E4C4CF1411}|fruteria_descuento\\fruteria_descuento.vbproj|c:\\users\\julian\\workspace\\visual_basic\\fruteria_descuento\\fruteria_descuento\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{88C94C88-B8A9-4D18-AF8E-13E4C4CF1411}|fruteria_descuento\\fruteria_descuento.vbproj|solutionrelative:fruteria_descuento\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\julian\\workspace\\visual_basic\\fruteria_descuento\\fruteria_descuento\\Program.vb",
+              "RelativeDocumentMoniker": "fruteria_descuento\\Program.vb",
+              "ToolTip": "C:\\Users\\julian\\workspace\\visual_basic\\fruteria_descuento\\fruteria_descuento\\Program.vb",
+              "RelativeToolTip": "fruteria_descuento\\Program.vb",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAgwCYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T06:54:47.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
